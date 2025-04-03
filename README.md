@@ -71,16 +71,20 @@ A nova infraestrutura na AWS segue os pilares da AWS Well-Architected Framework 
 ## 📊 Diagramas da Arquitetura
 
 1. **Fase 1: Migração (Lift-and-Shift)**
-   ![Diagrama de Migração](img/migracao.drawio.png)
+   ![Animação-migração](https://github.com/user-attachments/assets/b1c44c4d-3081-421e-8b14-d7c94ce3b963)
 
-2. **Infraestrutura Pós-Migração**
-   ![Diagrama Pós-Migração](img/posmigracao.drawio.png)
+
+3. **Infraestrutura Pós-Migração**
+   ![Animação-posmigração](https://github.com/user-attachments/assets/89ad8c1a-166c-45d8-a734-db86cd1d74d3)
+
    
-3. **Fase 2: Modernização (Kubernetes)**
-   ![Diagrama de Modernização](img/modernizacao.drawio.png)
+4. **Fase 2: Modernização (Kubernetes)**
+   ![Animação-modernização](https://github.com/user-attachments/assets/87ff9af2-5879-453a-9e83-ab74055f0352)
 
-4. **Fluxo de Deploy**
-   ![deploy-Página-1](https://github.com/user-attachments/assets/a05fc21f-50d3-43a7-8402-200c28b3cc22)
+
+5. **Fluxo de Deploy**
+   ![Animação-deploy](https://github.com/user-attachments/assets/ea7f2ca8-913d-4f3b-8a68-0475e1543ece)
+
 
 
 
