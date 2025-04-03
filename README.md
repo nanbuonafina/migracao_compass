@@ -80,7 +80,8 @@ A nova infraestrutura na AWS segue os pilares da AWS Well-Architected Framework 
    ![Diagrama de Modernização](img/modernizacao.drawio.png)
 
 4. **Fluxo de Deploy**
-   ![Diagrama de Deploy](img/deploy.drawio.png)
+   ![deploy-Página-1](https://github.com/user-attachments/assets/1f0ff60c-b7b7-4cad-a493-1a5c875145d2)
+
 
 ## 💰 Estimativa de Custos na AWS
 A estimativa de custos foi calculada utilizando a ferramenta **AWS Pricing Calculator**.
@@ -102,5 +103,3 @@ O projeto propõe uma migração eficiente e uma modernização segura, garantin
 
 
 
-
-https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=deploy.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1hJv6umBt1TwUnCMZtslp19fLjQu5El5u%26export%3Ddownload
