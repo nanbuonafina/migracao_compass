@@ -25,7 +25,7 @@ A infraestrutura atual consiste em:
 ### 🔹 Arquitetura na AWS
 A nova infraestrutura na AWS segue os pilares da AWS Well-Architected Framework e será dividida em duas etapas:
 
-![Pilares da AWS Well-Architected Framework](pilares_aws.png)
+![Pilares da AWS Well-Architected Framework](img/pilares_aws.png)
 
 #### 🛠 **Fase 1: Lift-and-Shift (Migração As-Is)**
 - **Migração dos servidores on-premises para a AWS** utilizando o AWS Application Migration Service (MGN).
