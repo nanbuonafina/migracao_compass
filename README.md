@@ -50,20 +50,23 @@ A nova infraestrutura na AWS segue os pilares da AWS Well-Architected Framework 
 | <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Migration-Transfer/64/Arch_AWS-Application-Migration-Service_64@5x.png" width="50"> | **AWS Application Migration Service (MGN)** | Automatizar a migração de servidores. |
 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7L7fI-Ozxh2ni9T2E7rgX_CU-VNMOpoXfwpIxYIaifUcJL_NQ0ZJi8mGHWNRdiFXmres&usqp=CAU" width="50"> | **Amazon RDS for MySQL** | Banco de dados relacional gerenciado. |
 | <img src="https://github.com/user-attachments/assets/74224709-c040-46dd-858c-6307886fb90d" width="50"> | **Amazon VPC** | Criar uma rede isolada e segura. |
+| <img src="https://cloud-icons.onemodel.app/aws/Resource-Icons_01312023/Res_Networking-and-Content-Delivery/Res_48_Light/Res_Amazon-VPC_NAT-Gateway_48_Light.png" width="50"> | NAT (Network Address Translation) | Serviço de tradução de endereços de rede. |
+| <img src="https://cloud-icons.onemodel.app/aws/Resource-Icons_01312023/Res_Networking-and-Content-Delivery/Res_48_Light/Res_Amazon-VPC_Internet-Gateway_48_Light.png" width="50"> | Internet Gateway | Componente de rede para comunicação com a Internet. |
 | <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" width="50"> | **Amazon S3** | Armazenamento escalável para arquivos e backups. |
-|Ícone | **S3 Glacier Instant Retrieval** | Armazenamento de longo prazo. |
+| <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Management-Governance/64/Arch_Amazon-CloudWatch_64.png" width="50"> | **S3 Glacier Instant Retrieval** | Armazenamento de longo prazo. |
 | <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Management-Governance/64/Arch_Amazon-CloudWatch_64.png" width="50"> | **Amazon CloudWatch** | Monitoramento de métricas e logs. |
-|Ícone | **AWS X-Ray** | Rastreio de requisições para otimização. |
 | <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Containers/64/Arch_Amazon-Elastic-Kubernetes-Service_64.png" width="50"> | **Amazon EKS** | Orquestração de containers Kubernetes. |
 | <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Networking-Content-Delivery/64/Arch_Amazon-Route-53_64@5x.png" width="50"> | **Amazon Route 53** | Gerenciamento de DNS. |
-|Ícone | **Amazon EFS** | Armazenamento compartilhado para múltiplas instâncias. |
+| <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Management-Governance/64/Arch_Amazon-CloudWatch_64.png" width="50"> | **Amazon EFS** | Armazenamento compartilhado para múltiplas instâncias. |
 | <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Containers/64/Arch_Amazon-Elastic-Container-Registry_64.png" width="50"> | **Amazon ECR** | Armazenamento de imagens Docker. |
 | <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Security-Identity-Compliance/64/Arch_AWS-WAF_64.png" width="50"> | **AWS WAF** | Proteção contra ataques na camada web. |
 | <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Networking-Content-Delivery/64/Arch_Amazon-CloudFront_64.png" width="50"> | **Amazon CloudFront** | Distribuição de conteúdo globalmente. |
 | <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Security-Identity-Compliance/64/Arch_AWS-Secrets-Manager_64@5x.png" width="50"> | **AWS Secrets Manager** | Gestão segura de credenciais. |
 | <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Storage/64/Arch_AWS-Backup_64@5x.png" width="50"> | **AWS Backup** | Automação e gerenciamento de backups. |
-|Ícone | **AWS CodeBuild** | Construção e testes automáticos no CI/CD. |
-|Ícone | **AWS CodePipeline** | Fluxo automatizado de CI/CD. |
+| <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Storage/64/Arch_AWS-Backup_64@5x.png" width="50"> | **AWS CodeBuild** | Construção e testes automáticos no CI/CD. |
+| <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Developer-Tools/64/Arch_AWS-CodePipeline_64.svg" width="50"> | **AWS CodePipeline** | Fluxo automatizado de CI/CD. |
+| <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Developer-Tools/64/Arch_AWS-CodePipeline_64.svg" width="50"> | **AWS CodeCommit** | Repositório Git seguro para armazenar o código-fonte do projeto. |
+| <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Developer-Tools/64/Arch_AWS-CodePipeline_64.svg" width="50"> | **AWS CodeDeploy** | Automatizar implantações de código para EC2, EKS e outros serviços AWS. |
 
 ## 📊 Diagramas da Arquitetura
 
