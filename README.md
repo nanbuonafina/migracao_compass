@@ -43,27 +43,27 @@ A nova infraestrutura na AWS segue os pilares da AWS Well-Architected Framework 
 
 ## 🏛 Serviços AWS Utilizados
 
-| **Serviço AWS** | **Função no Projeto** |
-| --- | --- |
-| **Amazon EC2** | Hospedar e executar as aplicações e serviços essenciais. |
-| **Elastic Load Balancing** | Distribuir o tráfego entre as instâncias EC2. |
-| **AWS Application Migration Service (MGN)** | Automatizar a migração de servidores. |
-| **Amazon RDS for MySQL** | Banco de dados relacional gerenciado. |
-| **Amazon VPC** | Criar uma rede isolada e segura. |
-| **Amazon S3** | Armazenamento escalável para arquivos e backups. |
-| **S3 Glacier Instant Retrieval** | Armazenamento de longo prazo. |
-| **Amazon CloudWatch** | Monitoramento de métricas e logs. |
-| **AWS X-Ray** | Rastreio de requisições para otimização. |
-| **Amazon EKS** | Orquestração de containers Kubernetes. |
-| **Amazon Route 53** | Gerenciamento de DNS. |
-| **Amazon EFS** | Armazenamento compartilhado para múltiplas instâncias. |
-| **Amazon ECR** | Armazenamento de imagens Docker. |
-| **AWS WAF** | Proteção contra ataques na camada web. |
-| **Amazon CloudFront** | Distribuição de conteúdo globalmente. |
-| **AWS Secrets Manager** | Gestão segura de credenciais. |
-| **AWS Backup** | Automação e gerenciamento de backups. |
-| **AWS CodeBuild** | Construção e testes automáticos no CI/CD. |
-| **AWS CodePipeline** | Fluxo automatizado de CI/CD. |
+Ícone | **Serviço AWS** | **Função no Projeto** |
+--- | --- | --- |
+Ícone | **Amazon EC2** | Hospedar e executar as aplicações e serviços essenciais. |
+Ícone | **Elastic Load Balancing** | Distribuir o tráfego entre as instâncias EC2. |
+Ícone | **AWS Application Migration Service (MGN)** | Automatizar a migração de servidores. |
+Ícone | **Amazon RDS for MySQL** | Banco de dados relacional gerenciado. |
+Ícone | **Amazon VPC** | Criar uma rede isolada e segura. |
+Ícone | **Amazon S3** | Armazenamento escalável para arquivos e backups. |
+Ícone | **S3 Glacier Instant Retrieval** | Armazenamento de longo prazo. |
+Ícone | **Amazon CloudWatch** | Monitoramento de métricas e logs. |
+Ícone | **AWS X-Ray** | Rastreio de requisições para otimização. |
+Ícone | **Amazon EKS** | Orquestração de containers Kubernetes. |
+Ícone | **Amazon Route 53** | Gerenciamento de DNS. |
+Ícone | **Amazon EFS** | Armazenamento compartilhado para múltiplas instâncias. |
+Ícone | **Amazon ECR** | Armazenamento de imagens Docker. |
+Ícone | **AWS WAF** | Proteção contra ataques na camada web. |
+Ícone | **Amazon CloudFront** | Distribuição de conteúdo globalmente. |
+Ícone | **AWS Secrets Manager** | Gestão segura de credenciais. |
+Ícone | **AWS Backup** | Automação e gerenciamento de backups. |
+Ícone | **AWS CodeBuild** | Construção e testes automáticos no CI/CD. |
+Ícone | **AWS CodePipeline** | Fluxo automatizado de CI/CD. |
 
 ## 📊 Diagramas da Arquitetura
 
