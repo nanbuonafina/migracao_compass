@@ -68,16 +68,16 @@ A nova infraestrutura na AWS segue os pilares da AWS Well-Architected Framework 
 ## 📊 Diagramas da Arquitetura
 
 1. **Fase 1: Migração (Lift-and-Shift)**
-   ![Diagrama de Migração](migracao.drawio.png)
+   ![Diagrama de Migração](img/migracao.drawio.png)
 
 2. **Infraestrutura Pós-Migração**
-   ![Diagrama Pós-Migração](posmigracao.drawio.png)
+   ![Diagrama Pós-Migração](img/posmigracao.drawio.png)
    
 3. **Fase 2: Modernização (Kubernetes)**
-   ![Diagrama de Modernização](modernizacao.drawio.png)
+   ![Diagrama de Modernização](img/modernizacao.drawio.png)
 
 4. **Fluxo de Deploy**
-   ![Diagrama de Deploy](deploy.drawio.png)
+   ![Diagrama de Deploy](img/deploy.drawio.png)
 
 ## 💰 Estimativa de Custos na AWS
 A estimativa de custos foi calculada utilizando a ferramenta **AWS Pricing Calculator**.
