@@ -80,7 +80,8 @@ A nova infraestrutura na AWS segue os pilares da AWS Well-Architected Framework 
    ![Diagrama de Modernização](img/modernizacao.drawio.png)
 
 4. **Fluxo de Deploy**
-   ![deploy-Página-1](https://github.com/user-attachments/assets/1f0ff60c-b7b7-4cad-a493-1a5c875145d2)
+   ![deploy-Página-1](https://github.com/user-attachments/assets/a05fc21f-50d3-43a7-8402-200c28b3cc22)
+
 
 
 ## 💰 Estimativa de Custos na AWS
