@@ -81,12 +81,17 @@ A nova infraestrutura na AWS segue os pilares da AWS Well-Architected Framework 
    
 5. **Fase 2: Modernização (Kubernetes)**
 
-   ![Animação-modernização](https://github.com/user-attachments/assets/87ff9af2-5879-453a-9e83-ab74055f0352)
+ 
+  ![Animação-modernizacao](https://github.com/user-attachments/assets/f9343f72-5f1f-4ab4-8f93-e8e4331b55cf)
+
 
 
 7. **Fluxo de Deploy**
 
-   ![Animação-deploy](https://github.com/user-attachments/assets/ea7f2ca8-913d-4f3b-8a68-0475e1543ece)
+
+
+   ![Animação-deployy](https://github.com/user-attachments/assets/4b6bc6c0-d2c0-40b1-9f97-7a85493a4851)
+
 
 
 
