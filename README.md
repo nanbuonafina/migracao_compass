@@ -88,9 +88,10 @@ A nova infraestrutura na AWS segue os pilares da AWS Well-Architected Framework 
 
 7. **Fluxo de Deploy**
 
+![deploy-Página-1 (1)](https://github.com/user-attachments/assets/eef4e351-d488-4a94-9740-41924e04c91d)
 
 
-![Animação-deployyy](https://github.com/user-attachments/assets/cea15088-0a3c-4863-a0c8-f073adf36d28)
+
 
 
 
