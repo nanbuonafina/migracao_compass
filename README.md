@@ -90,7 +90,7 @@ A nova infraestrutura na AWS segue os pilares da AWS Well-Architected Framework 
 
 
 
-   ![Animação-deployy](https://github.com/user-attachments/assets/4b6bc6c0-d2c0-40b1-9f97-7a85493a4851)
+![Animação-deployyy](https://github.com/user-attachments/assets/cea15088-0a3c-4863-a0c8-f073adf36d28)
 
 
 
