@@ -64,11 +64,11 @@ A nova infraestrutura na AWS será dividida em duas etapas:
 1. **Fase 1: Migração (Lift-and-Shift)**
    ![Diagrama de Migração](migracao.drawio.png)
 
-2. **Fase 2: Modernização (Kubernetes)**
-   ![Diagrama de Modernização](modernizacao.drawio.png)
-
-3. **Infraestrutura Pós-Migração**
+2. **Infraestrutura Pós-Migração**
    ![Diagrama Pós-Migração](posmigracao.drawio.png)
+   
+3. **Fase 2: Modernização (Kubernetes)**
+   ![Diagrama de Modernização](modernizacao.drawio.png)
 
 4. **Fluxo de Deploy**
    ![Diagrama de Deploy](deploy.drawio.png)
