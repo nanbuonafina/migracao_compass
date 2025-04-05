@@ -107,7 +107,7 @@ O projeto propõe uma migração eficiente e uma modernização segura, garantin
 
 ---
 
-✍ **Desenvolvido por:** 
+✍ **Desenvolvido por:** Maria Karolina Rodrigues de Andrade e Maria Fernanda Trevizane Buonafina
 
 <h1 align="center">
     <img align="center" src="https://logospng.org/download/uol/logo-uol-icon-256.png" width="40" height="40" /> Compass UOL - DevSecOps
