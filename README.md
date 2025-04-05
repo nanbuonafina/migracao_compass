@@ -100,7 +100,7 @@ A nova infraestrutura na AWS segue os pilares da AWS Well-Architected Framework 
 ## 💰 Estimativa de Custos na AWS
 A estimativa de custos foi calculada utilizando a ferramenta **AWS Pricing Calculator**.
 
-📄 Detalhes da estimativa podem ser encontrados no arquivo: [Estimativa AWS Calculator](aws_calculator.pdf)
+📄 Detalhes da estimativa podem ser encontrados no arquivo: [Estimativa AWS Calculator](orcamento_aws.pdf)
 
 ## 📜 Conclusão
 O projeto propõe uma migração eficiente e uma modernização segura, garantindo um ambiente de alta disponibilidade e escalabilidade na AWS. A infraestrutura planejada atende às necessidades do cliente, promovendo melhor desempenho e segurança para o e-commerce.
